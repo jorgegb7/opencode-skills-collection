@@ -32305,5 +32305,26 @@
       },
       "reasons": []
     }
+  },
+  {
+    "id": "datacenter-planning",
+    "path": "skills/datacenter-planning",
+    "category": "engineering",
+    "name": "datacenter-planning",
+    "description": "Critical infrastructure planning for data centers \u2014 space layout, power path design (utility to rack), cooling systems (air/liquid/immersion), tier classification, equipment installation, grounding/bonding, structured cabling, PUE optimization, and commissioning.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-05-25",
+    "plugin": {
+      "targets": {
+        "opencode": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": []
+    }
   }
 ]
